@@ -8,9 +8,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 ## Usage
 Projeyi cloneladıktan sonra Visual studio Code programında açınız
 
-1. Linux için:
-2. `cd kodluyoruzilkrepo`
-3. `code .`
+Linux için:
+1. `cd kodluyoruzilkrepo`
+2. `code .`
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
